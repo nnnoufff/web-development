@@ -16,7 +16,7 @@ const SignUp = () => {
     e.preventDefault();
 
     if (!name) {
-      setError("Please enter your name");
+      setError("Please enter your name.");
       return;
     }
 
