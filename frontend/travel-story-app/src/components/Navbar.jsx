@@ -27,7 +27,7 @@ const Navbar = ({ userInfo, searchQuery, setSearchQuery, onSearchNote, handleCle
 
   return (
     <div className="bg-white flex items-center justify-between px-6 py-2 drop-shadow sticky top-0 z-10">
-      <img src={LOGO} alt="logo" className="h-9" style={{width:"100px" , height:"auto"}} />
+      <img src={LOGO} alt="logo" className="h-9" style={{width:"110px" , height:"auto"}} />
 
       {isToken && (
         <>
