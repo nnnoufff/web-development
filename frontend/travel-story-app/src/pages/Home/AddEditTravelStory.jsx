@@ -193,7 +193,7 @@ const AddEditTravelStory = ({
           <div className="flex items-center gap-3 bg-cyan-50/50 p-2 rounded-l-lg">
             {type === "add" ? (
               <button className="btn-small" onClick={handleAddOrUpdateClick}>
-                <MdAdd className="text-lg" /> ADD RICPY
+                <MdAdd className="text-lg" /> ADD RICIPY
               </button>
             ) : (
               <>
