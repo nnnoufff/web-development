@@ -26,7 +26,7 @@ export const getEmptyCardMessage = (filterType) => {
       return `Oops! No Recipeys found matching your search.`;
 
     case "date":
-      return `No stories found in the given date range`;
+      return `Not found in the given date range`;
 
     default:
       return `Start creating your first Recipe!! Click the 'Add' button to never loose 
