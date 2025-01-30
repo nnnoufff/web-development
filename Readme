@@ -16,16 +16,16 @@ To get started with the Cookipedia project, follow these steps:
 
 1. Backend Setup:
 Navigate to the backend folder and install dependencies:
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 2. Frontend Setup:
 Navigate to the frontend folder and then into the travel-story-app directory:
-cd frontend
-cd travel-story-app
-npm install
-npm run dev
+- cd frontend
+- cd travel-story-app
+- npm install
+- npm run dev
 
 Technology:
 Frontend: The platform is built using React to create a dynamic, interactive user interface, making the experience more fluid and engaging for users.
@@ -51,11 +51,12 @@ Cookipedia could be enhanced with several features to improve user experience:
 
 5. AI-Powered Recipe Suggestions:  Introducing AI to suggest recipes based on available ingredients, preferences, and dietary needs, enhancing the cooking experience.
 
+Resources:
+- Online resources for React, Node.js, MongoDB, and Tailwind CSS.
+- Recipe blogs and cooking platforms for inspiration.
+
 Team Members:
 Nouf Alnagaidan
 Latifa Altuwairqi
 Reema Alobaid
 Lujain Alsuhaibani
-
-
-
