@@ -28,10 +28,11 @@ Navigate to the frontend folder and then into the travel-story-app directory:
 - npm run dev
 
 Technology:
-Frontend: The platform is built using React to create a dynamic, interactive user interface, making the experience more fluid and engaging for users.
-Backend: Tailwind CSS is used in the backend for styling, offering a clean and modern design, while Node.js with an Express.js server is responsible for handling user authentication, recipe management, and data storage.
-Database: MongoDB stores user information and recipe data securely, providing flexibility in managing the data.
-Authentication: User authentication is managed via secure login/signup protocols, ensuring privacy and safety.
+Frontend: Built using Tailwind CSS, providing a modern, clean, and responsive design that enhances the user experience.
+Backend: Developed using React, ensuring a dynamic and interactive experience while handling API requests efficiently.
+         Node.js with Express.js manages user authentication, recipe management, and data storage.
+Database: MongoDB securely stores user information and recipe data, offering flexible data management.
+Authentication & Security: Secure login/signup protocols ensure privacy and user safety.
 
 Goals:
 1.Public Recipe Blog: Offer users a platform to share and organize their recipes publicly, allowing others to discover and engage with their creations.
